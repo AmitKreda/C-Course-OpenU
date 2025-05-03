@@ -1,0 +1,32 @@
+START:
+    cmp
+    rts START
+    mov .data 1, r2
+    cmp ARR[#4], r4
+    not r4, r5
+    lea ARR [2], r5
+    lea STR ARR
+    printf("%d", length);
+    hlt
+macro mcr:
+    jmp length
+    jmp START, ARR
+    hlt now
+    move r1, r2
+    add: add #1, r5
+    inc size
+    dec mcr
+LABEL: ,add #1, r2
+.string STR
+.data 1, 2, 4, ARR[2], length
+.entry #2
+.entry ARR[5]
+push ARR[10], r4
+ARR: .data -538, 125, 823, 981, -892, 112, 6, -91
+STR: .string "Hello World!"
+STR: .string "Hello!"
+STR1: "Hello"
+STR2: "World!"
+.define size = 200
+.define length = 40
+.define const = 2

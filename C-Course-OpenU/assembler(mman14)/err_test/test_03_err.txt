@@ -1,0 +1,43 @@
+err_test/test_03.am in line 1: 
+Error: Missing colons after label definition.
+
+err_test/test_03.am in line 2: 
+Error: Missing directive or operation statement after label definition.
+
+err_test/test_03.am in line 3: 
+Error: Missing values after .data directive.
+
+err_test/test_03.am in line 5: 
+Error: No string provided after .string directive.
+
+err_test/test_03.am in line 6: 
+Error: String should end with a '\"' character.
+
+err_test/test_03.am in line 7: 
+Error: String should end with a '\"' character.
+
+err_test/test_03.am in line 9: 
+Error: Missing label parameter after directive.
+
+err_test/test_03.am in line 10: 
+Error: Missing label parameter after directive.
+
+err_test/test_03.am in line 11: 
+Error: Missing constant name after .define directive.
+
+err_test/test_03.am in line 12: 
+Error: Missing equal sign after constant name.
+
+err_test/test_03.am in line 13: 
+Error: Missing integer value after equal sign.
+
+err_test/test_03.am in line 14: 
+Error: Missing constant name after .define directive.
+
+err_test/test_03.am in line 15: 
+Error: Constant name is illegal.
+
+err_test/test_03.am in line 16: 
+Error: Missing constant name after .define directive.
+
+An error occured during assembling, output files will not be created.

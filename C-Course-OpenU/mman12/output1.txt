@@ -1,0 +1,43 @@
+Please enter 30 different names
+here is your input:
+Alice
+Bob
+Chloe
+David
+Emma
+Felix
+Grace
+Henry
+Ivy
+Jack
+Kelly
+Liam
+Megan
+Nathan
+Olivia
+Peter
+Quinn
+Rachel
+Sam
+Taylor
+Ulysses
+Victoria
+William
+Xander
+Yasmine
+Zachary
+Ava
+Benjamin
+Sophia
+Elijah
+here is the 10 random names:
+Random Name 1: Liam
+Random Name 2: Sophia
+Random Name 3: Ivy
+Random Name 4: Grace
+Random Name 5: Alice
+Random Name 6: David
+Random Name 7: Zachary
+Random Name 8: Megan
+Random Name 9: William
+Random Name 10: Yasmine

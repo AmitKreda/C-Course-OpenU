@@ -1,0 +1,79 @@
+err_test/test_04.am in line 1: 
+Error: Missing directive or operation statement after label definition.
+
+err_test/test_04.am in line 2: 
+Error: Missing operand.
+
+err_test/test_04.am in line 3: 
+Error: Extraneous text after end of command.
+
+err_test/test_04.am in line 4: 
+Error: First operand is illegal.
+
+err_test/test_04.am in line 5: 
+Error: Index for label 'ARR' is illegal.
+
+err_test/test_04.am in line 6: 
+Error: Extraneous text after end of command.
+
+err_test/test_04.am in line 7: 
+Error: Space before left square bracket. There should be no space there.
+
+err_test/test_04.am in line 8: 
+Error: Missing comma between operands.
+
+err_test/test_04.am in line 9: 
+Error: Identifier '(' is illegal.
+
+err_test/test_04.am in line 11: 
+Error: Missing colons after label definition.
+
+err_test/test_04.am in line 13: 
+Error: Extraneous text after end of command.
+
+err_test/test_04.am in line 14: 
+Error: Extraneous text after end of command.
+
+err_test/test_04.am in line 15: 
+Error: Missing colons after label definition.
+
+err_test/test_04.am in line 16: 
+Error: First operand is illegal.
+
+err_test/test_04.am in line 19: 
+Error: Illegal comma.
+
+err_test/test_04.am in line 20: 
+Error: Expected string after .string directive, got 'STR' insted.
+
+err_test/test_04.am in line 21: 
+Error: Extraneous text after end of command.
+
+err_test/test_04.am in line 22: 
+Error: Expected label after directive, got '#' instead.
+
+err_test/test_04.am in line 23: 
+Error: Extraneous text after end of command.
+
+err_test/test_04.am in line 24: 
+Error: Missing colons after label definition.
+
+err_test/test_04.am in line 27: 
+Error: The label 'STR' has already been defined. Redefinition of a label is illegal/
+
+err_test/test_04.am in line 28: 
+Error: Missing directive or operation statement after label definition.
+
+err_test/test_04.am in line 29: 
+Error: Missing directive or operation statement after label definition.
+
+err_test/test_04.am in line 12: 
+Erorr: Expected a label, got constant 'length' instead.
+
+err_test/test_04.am in line 17: 
+Erorr: Expected a label, got constant 'size' instead.
+
+err_test/test_04.am in line 18: 
+Error: The label mcr is undefined.
+
+An error occured during assembling, output files will not be created.

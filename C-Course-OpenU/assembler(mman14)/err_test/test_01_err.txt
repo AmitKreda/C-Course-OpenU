@@ -1,0 +1,169 @@
+err_test/test_01.am in line 1: 
+Error: Missing operand.
+
+err_test/test_01.am in line 2: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 6: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 14: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 18: 
+Error: Missing operand.
+
+err_test/test_01.am in line 35: 
+Error: Missing operand.
+
+err_test/test_01.am in line 36: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 40: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 48: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 52: 
+Error: Missing operand.
+
+err_test/test_01.am in line 53: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 57: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 65: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 69: 
+Error: Missing operand.
+
+err_test/test_01.am in line 70: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 74: 
+Error: Missing operand.
+
+err_test/test_01.am in line 75: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 79: 
+Error: Missing operand.
+
+err_test/test_01.am in line 80: 
+Error: Source operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 83: 
+Error: Source operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 84: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 92: 
+Error: Source operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 93: 
+Error: Source operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 94: 
+Error: Source operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 95: 
+Error: Source operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 96: 
+Error: Missing operand.
+
+err_test/test_01.am in line 97: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 101: 
+Error: Missing operand.
+
+err_test/test_01.am in line 102: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 106: 
+Error: Missing operand.
+
+err_test/test_01.am in line 107: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 109: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 111: 
+Error: Missing operand.
+
+err_test/test_01.am in line 112: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 114: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 116: 
+Error: Missing operand.
+
+err_test/test_01.am in line 117: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 121: 
+Error: Missing operand.
+
+err_test/test_01.am in line 126: 
+Error: Missing operand.
+
+err_test/test_01.am in line 127: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 129: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_01.am in line 3: 
+Erorr: Expected a label, got constant 'sz' instead.
+
+err_test/test_01.am in line 4: 
+Erorr: Expected a label, got constant 'xx' instead.
+
+err_test/test_01.am in line 10: 
+Erorr: Expected a label, got constant 'xx' instead.
+
+err_test/test_01.am in line 20: 
+Erorr: Expected a label, got constant 'sz' instead.
+
+err_test/test_01.am in line 21: 
+Erorr: Expected a label, got constant 'xx' instead.
+
+err_test/test_01.am in line 27: 
+Erorr: Expected a label, got constant 'xx' instead.
+
+err_test/test_01.am in line 37: 
+Erorr: Expected a label, got constant 'sz' instead.
+
+err_test/test_01.am in line 38: 
+Erorr: Expected a label, got constant 'xx' instead.
+
+err_test/test_01.am in line 44: 
+Erorr: Expected a label, got constant 'xx' instead.
+
+err_test/test_01.am in line 54: 
+Erorr: Expected a label, got constant 'sz' instead.
+
+err_test/test_01.am in line 55: 
+Erorr: Expected a label, got constant 'xx' instead.
+
+err_test/test_01.am in line 61: 
+Erorr: Expected a label, got constant 'xx' instead.
+
+err_test/test_01.am in line 81: 
+Erorr: Expected a label, got constant 'sz' instead.
+
+err_test/test_01.am in line 82: 
+Erorr: Expected a label, got constant 'xx' instead.
+
+err_test/test_01.am in line 88: 
+Erorr: Expected a label, got constant 'xx' instead.
+
+An error occured during assembling, output files will not be created.

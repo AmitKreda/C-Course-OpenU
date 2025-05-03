@@ -1,0 +1,3 @@
+Please enter the angle to which the cosine should be calculated (less than 1.0e+7 and bigger than -1.0e+7)		
+math.h cosine function result:	0.809017	
+my_cos result:	0.809016	

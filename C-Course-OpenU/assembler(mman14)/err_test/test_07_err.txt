@@ -1,0 +1,25 @@
+err_test/test_07.am in line 7: 
+Error: First operand is illegal.
+
+err_test/test_07.am in line 9: 
+Error: The label 'XYZ' has already been defined. Redefinition of a label is illegal/
+
+err_test/test_07.am in line 14: 
+Error: Missing colons after label definition.
+
+err_test/test_07.am in line 17: 
+Error: Multiple consecutive commas.
+
+err_test/test_07.am in line 6: 
+Error: The label GGG is undefined.
+
+err_test/test_07.am in line 10: 
+Error: The label r9 is undefined.
+
+err_test/test_07.am in line 11: 
+Error: The label END is undefined.
+
+err_test/test_07.am in line 12: 
+Error: The label K is undefined.
+
+An error occured during assembling, output files will not be created.

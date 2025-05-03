@@ -1,0 +1,44 @@
+enter your command
+read_mat MAT_G, 3.2, 8 
+Undefined matrix name
+enter your command
+read_mat mat_a, 3.2, -5.3 
+Undefined matrix name
+enter your command
+do_it MAT_A, MAT_B, MAT_C
+Undefined command name
+enter your command
+Add_Mat MAT_A, MAT_B, MAT_C 
+Undefined command name
+enter your command
+read_mat MAT_A, abc, 567 
+Argument is not a real number
+enter your command
+read_mat MAT_A, 3, -4.2, 6, 
+Extraneous text after end of command
+enter your command
+read_mat MAT_A
+Missing argument
+enter your command
+mul_mat MAT_B, MAT_C 
+Missing argument
+enter your command
+trans_mat MAT_B, MAT_C, MAT_D 
+Extraneous text after end of command
+enter your command
+print_mat,MAT_A
+Illegal comma
+enter your command
+trans_mat MAT_A MAT_B 
+Missing_comma
+enter your command
+sub_mat MAT_A, , MAT_B, MAT_C
+Multiple consecutive commas
+enter your command
+mul_scalar MAT_A, MAT_B, MAT_C
+Argument is not a scalar
+enter your command
+stop now
+Extraneous text after end of command
+enter your command
+reached to the end without stop command

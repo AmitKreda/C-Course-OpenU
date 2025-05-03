@@ -1,0 +1,141 @@
+mov
+mov #2047, #-2048
+mov sz, LABEL
+mov xx, ARR[2]
+mov #547, r4
+mov STR, #-902
+mov Y, ARR
+mov ARR, STR[3]
+mov STR, r4
+mov ARR[4], xx
+mov STR[2], Y
+mov ARR[6], NUM[9]
+mov NUM[3], r0
+mov r2, #19
+mov r3, LOOP
+mov r4, NUM[4]
+mov r5, r6
+cmp
+cmp #2047, #-2048
+cmp sz, LABEL
+cmp xx, ARR[2]
+cmp #547, r4
+cmp STR, #-902
+cmp Y, ARR
+cmp ARR, STR[3]
+cmp STR, r4
+cmp ARR[4], xx
+cmp STR[2], Y
+cmp ARR[6], NUM[9]
+cmp NUM[3], r0
+cmp r2, #19
+cmp r3, LOOP
+cmp r4, NUM[4]
+cmp r5, r6
+add 
+add #2047, #-2048
+add sz, LABEL
+add xx, ARR[2]
+add #547, r4
+add STR, #-902
+add Y, ARR
+add ARR, STR[3]
+add STR, r4
+add ARR[4], xx
+add STR[2], Y
+add ARR[6], NUM[9]
+add NUM[3], r0
+add r2, #19
+add r3, LOOP
+add r4, NUM[4]
+add r5, r6
+sub
+sub #2047, #-2048
+sub sz, LABEL
+sub xx, ARR[2]
+sub #547, r4
+sub STR, #-902
+sub Y, ARR
+sub ARR, STR[3]
+sub STR, r4
+sub ARR[4], xx
+sub STR[2], Y
+sub ARR[6], NUM[9]
+sub NUM[3], r0
+sub r2, #19
+sub r3, LOOP
+sub r4, NUM[4]
+sub r5, r6
+not
+not #547
+not STR
+not NUM[3]
+not r5
+clr
+clr #547
+clr STR
+clr NUM[3]
+clr r5
+lea 
+lea #2047, #-2048
+lea sz, LABEL
+lea xx, ARR[2]
+lea #547, r4
+lea STR, #-902
+lea Y, ARR
+lea ARR, STR[3]
+lea STR, r4
+lea ARR[4], xx
+lea STR[2], Y
+lea ARR[6], NUM[9]
+lea NUM[3], r0
+lea r2, #19
+lea r3, LOOP
+lea r4, NUM[4]
+lea r5, r6
+inc 
+inc #547
+inc STR
+inc NUM[3]
+inc r5
+dec 
+dec #547
+dec STR
+dec NUM[3]
+dec r5
+jmp 
+jmp #547
+jmp STR
+jmp NUM[3]
+jmp r5
+bne
+bne #547
+bne STR
+bne NUM[3]
+bne r5
+red
+red #547
+red STR
+red NUM[3]
+red r5
+prn
+prn #547
+prn STR
+prn NUM[3]
+prn r5
+jsr
+jsr #547
+jsr STR
+jsr NUM[3]
+jsr r5
+rts
+hlt
+LABEL: cmp r1, r2
+ARR: .data -2048, 2047, 1, 2, 3, 4, 5, 0
+STR: .string "abcdef"
+Y: .data 10
+LOOP: jmp LABEL
+NUM: .data -1 , -2, -3, -4 , -5, -6, -7, -8, -9, -10
+.define const = -1297
+.define sz = 9
+.define xx = -2048

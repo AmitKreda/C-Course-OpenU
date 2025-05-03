@@ -1,0 +1,101 @@
+enter your command
+print_mat MAT_A 
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+enter your command
+print_mat MAT_B 
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+enter your command
+print_mat MAT_C 
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+enter your command
+read_mat MAT_A, 1, 2, 3, 3, 4, 5, 6, 7, 8, 9, 1, 2, 3, 4, 5, 6, 6, 6, 6, 6, 6 
+enter your command
+read_mat MAT_B, 1, 2.3456, -7.89 
+enter your command
+read_mat MAT_C, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 
+enter your command
+print_mat MAT_A 
+   1.00	   2.00	   3.00	   3.00
+   4.00	   5.00	   6.00	   7.00
+   8.00	   9.00	   1.00	   2.00
+   3.00	   4.00	   5.00	   6.00
+enter your command
+print_mat MAT_B 
+   1.00	   2.35	  -7.89	   0.00
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+enter your command
+print_mat MAT_C 
+   1.00	   2.00	   3.00	   4.00
+   5.00	   6.00	   7.00	   8.00
+   9.00	  10.00	  11.00	  12.00
+  13.00	  14.00	  15.00	  16.00
+enter your command
+add_mat MAT_A, MAT_B, MAT_D 
+enter your command
+print_mat MAT_D 
+   2.00	   4.35	  -4.89	   3.00
+   4.00	   5.00	   6.00	   7.00
+   8.00	   9.00	   1.00	   2.00
+   3.00	   4.00	   5.00	   6.00
+enter your command
+sub_mat MAT_B, MAT_A, MAT_E 
+enter your command
+print_mat MAT_E 
+   0.00	   0.35	 -10.89	  -3.00
+  -4.00	  -5.00	  -6.00	  -7.00
+  -8.00	  -9.00	  -1.00	  -2.00
+  -3.00	  -4.00	  -5.00	  -6.00
+enter your command
+mul_mat MAT_B, MAT_C, MAT_F 
+enter your command
+print_mat MAT_F 
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+enter your command
+mul_scalar MAT_A, 12.5, MAT_A 
+enter your command
+print_mat MAT_A 
+  12.50	  25.00	  37.50	  37.50
+  50.00	  62.50	  75.00	  87.50
+ 100.00	 112.50	  12.50	  25.00
+  37.50	  50.00	  62.50	  75.00
+enter your command
+trans_mat MAT_C, MAT_C 
+enter your command
+print_mat MAT_C 
+   1.00	   5.00	   9.00	  13.00
+   2.00	   6.00	  10.00	  14.00
+   3.00	   7.00	  11.00	  15.00
+   4.00	   8.00	  12.00	  16.00
+enter your command
+read_mat MAT_B, 0 
+enter your command
+print_mat MAT_B 
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+   0.00	   0.00	   0.00	   0.00
+enter your command
+mul_mat MAT_A,MAT_A,MAT_A 
+enter your command
+print_mat MAT_A 
+1406.25	4375.00	1562.50	5625.00
+  50.00	  62.50	  75.00	  87.50
+ 100.00	 112.50	  12.50	  25.00
+  37.50	  50.00	  62.50	  75.00
+enter your command
+stop
+exiting from the mat calculator

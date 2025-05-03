@@ -1,0 +1,203 @@
+err_test/test_06.am in line 7: 
+Error: Identifier ';' is illegal.
+
+err_test/test_06.am in line 8: 
+Error: Extraneous text after end of command.
+
+err_test/test_06.am in line 9: 
+Error: Extraneous text after end of command.
+
+err_test/test_06.am in line 10: 
+Error: String should end with a '\"' character.
+
+err_test/test_06.am in line 12: 
+Error: directive name '.ext' is illegal.
+
+err_test/test_06.am in line 13: 
+Error: Identifier '12e+2' is illegal. 
+Note: Label names can start only with an alphabetical character, and integers can't have letters in them.
+
+err_test/test_06.am in line 14: 
+Error: Identifier '%$' is illegal.
+
+err_test/test_06.am in line 15: 
+Error: Integer size exceeding limit. An integer can be only between -2048 to 2047.
+
+err_test/test_06.am in line 16: 
+Error: Integer size exceeding limit. An integer can be only between -2048 to 2047.
+
+err_test/test_06.am in line 17: 
+Error: No string provided after .string directive.
+
+err_test/test_06.am in line 18: 
+Error: Missing comma between operands.
+
+err_test/test_06.am in line 19: 
+Error: Missing operand.
+
+err_test/test_06.am in line 20: 
+Error: Missing operand.
+
+err_test/test_06.am in line 21: 
+Error: Missing comma between operands.
+
+err_test/test_06.am in line 22: 
+Error: Missing index for label 'ARR'.
+
+err_test/test_06.am in line 23: 
+Error: Index for label 'ARR' is illegal.
+
+err_test/test_06.am in line 24: 
+Error: Missing colons after label definition.
+
+err_test/test_06.am in line 25: 
+Error: Missing colons after label definition.
+
+err_test/test_06.am in line 26: 
+Error: Missing colons after label definition.
+
+err_test/test_06.am in line 27: 
+Error: Missing label parameter after directive.
+
+err_test/test_06.am in line 28: 
+Error: Missing label parameter after directive.
+
+err_test/test_06.am in line 29: 
+Error: Missing equal sign after constant name.
+
+err_test/test_06.am in line 30: 
+Error: Missing integer value after equal sign.
+
+err_test/test_06.am in line 31: 
+Error: Missing constant name after .define directive.
+
+err_test/test_06.am in line 32: 
+Error: Missing values after .data directive.
+
+err_test/test_06.am in line 33: 
+Error: Missing values after .data directive.
+
+err_test/test_06.am in line 35: 
+Error: The label 'b' has already been defined. Redefinition of a label is illegal/
+
+err_test/test_06.am in line 36: 
+Error: Expected label after directive, got '#' instead.
+
+err_test/test_06.am in line 37: 
+Error: Expected label after directive, got 'r3' instead.
+
+err_test/test_06.am in line 38: 
+Error: Expected integer, got 'a' instead.
+
+err_test/test_06.am in line 39: 
+Error: Expected integer, got '#' instead.
+
+err_test/test_06.am in line 40: 
+Error: Expected constant name or integer, got 'r2' instead.
+
+err_test/test_06.am in line 41: 
+Error: Expected a constant, got label 'RRR' instead.
+
+err_test/test_06.am in line 42: 
+Error: First operand is illegal.
+
+err_test/test_06.am in line 43: 
+Error: Expected a constant, got label 'VAR' instead.
+
+err_test/test_06.am in line 44: 
+Error: Expected string after .string directive, got 'VAR' insted.
+
+err_test/test_06.am in line 45: 
+Error: Expected string after .string directive, got 'mov' insted.
+
+err_test/test_06.am in line 46: 
+Error: Missing equal sign after constant name.
+
+err_test/test_06.am in line 47: 
+Error: First operand is illegal.
+
+err_test/test_06.am in line 48: 
+Error: First operand is illegal.
+
+err_test/test_06.am in line 49: 
+Error: First operand is illegal.
+
+err_test/test_06.am in line 50: 
+Error: Expected a constant, got label 'VAR' instead.
+
+err_test/test_06.am in line 51: 
+Error: Index for label 'RRR' is illegal.
+
+err_test/test_06.am in line 52: 
+Error: Identifier '_' is illegal.
+
+err_test/test_06.am in line 53: 
+Error: Illegal comma.
+
+err_test/test_06.am in line 54: 
+Error: Illegal comma.
+
+err_test/test_06.am in line 55: 
+Error: Illegal comma.
+
+err_test/test_06.am in line 56: 
+Error: Space before colons. There should be no space there.
+
+err_test/test_06.am in line 57: 
+Error: Space before left square bracket. There should be no space there.
+
+err_test/test_06.am in line 58: 
+Error: Space before constant (after the '#' character). There should be no space there.
+
+err_test/test_06.am in line 59: 
+Error: Space before integer (after the '#' character). There should be no space there.
+
+err_test/test_06.am in line 60: 
+Error: A label can't be defined before a constant definition directive.
+
+err_test/test_06.am in line 61: 
+Error: Label 'THISLABELISWAAAAAAAAAAAAAAAAAAAAAAAAAAAAYTOOLONG' is too long to be defined. Max label length is 31.
+
+err_test/test_06.am in line 62: 
+Error: Constant name 'THISCONSTANTISWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYTOOLONG' is too long to be defined. Max constant name length is 31.
+
+err_test/test_06.am in line 63: 
+Error: Multiple consecutive commas.
+
+err_test/test_06.am in line 64: 
+Error: Extraneous comma at the end of .data directive.
+
+err_test/test_06.am in line 66: 
+Error: The constant twice has already been already defined. Redefinition of a constant is illegal.
+
+err_test/test_06.am in line 68: 
+Error: The constant same has already been already defined. Redefinition of a constant is illegal.
+
+err_test/test_06.am in line 69: 
+Error: The constant doesntexist is undefined.
+
+err_test/test_06.am in line 70: 
+Error: The constant nonexistent is undefined.
+
+err_test/test_06.am in line 71: 
+Error: Expected a constant, got label 'VAR' instead.
+
+err_test/test_06.am in line 73: 
+Error: The label 'REDEFINE' has already been defined. Redefinition of a label is illegal/
+
+err_test/test_06.am in line 74: 
+Error: Source operand addressing method is illegal for this operation.
+
+err_test/test_06.am in line 75: 
+Error: Destination operand addressing method is illegal for this operation.
+
+err_test/test_06.am in line 34: 
+Erorr: Expected a label, got constant 'a' instead.
+
+err_test/test_06.am in line 76: 
+Error: The label NOWHERE is undefined.
+
+err_test/test_06.am in line 77: 
+Error: The label ARR is undefined.
+
+An error occured during assembling, output files will not be created.

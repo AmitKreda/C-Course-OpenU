@@ -1,0 +1,2 @@
+Please enter 30 different names
+Error: Two identical names detected.
